@@ -4,7 +4,7 @@
 function Card() {
   return (
     <div>
-      <h2>Esto es un componente</h2>
+      <h2>Porfavor chequea que la informacion sea correcta</h2>
     </div>
   );
 }
